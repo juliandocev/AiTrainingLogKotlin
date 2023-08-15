@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AiTrainingLogKotlin</string>
+    <string name="object_detection">Object detection</string>
+    <string name="title_text">title text</string>
+</resources>
